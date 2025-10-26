@@ -16,15 +16,17 @@ This is the first rice i ever make so i hope u guys enjoy it , plus i wish for a
 
 
 ## Requirements :
-* Wofi
-* Hyprland
-* Hyprlock
-* Swaybg
+* Wofi as your launcher.
+* Hyprland as your tiling window manager.
+* Hyprlock for the lock screen.
+* Swaybg for the wallpapers.
 
 ## Optional :
-* Starship
-* NeoVim
-* Dolphin
+* Starship for customizing your shell.
+* NeoVim as your text editor , you can use any text editor you want (just don't use emacs).
+* Ranger as a terminal based file manager or you can use dolphin.
 
-I used waybar dot files from another guy here is his git repo : https://github.com/elifouts/Dotfiles.git
+
+
+I modified waybar dot files from another guy, here's his git repo : https://github.com/elifouts/Dotfiles.git
 
