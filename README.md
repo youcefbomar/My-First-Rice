@@ -24,8 +24,8 @@ This is the first rice I ever make so I hope u guys enjoy it , plus I wish for a
 * Starship for customizing your shell.
 * NeoVim as your text editor , you can use any text editor you want (just don't use emacs).
 * Ranger as a terminal based file manager or you can use dolphin.
-* Swaybg for the wallpapers.
+* Hyprpaper for the wallpapers.
 
 
-I modified waybar dot files from another guy, here's his git repo : https://github.com/elifouts/Dotfiles.git
+I stole and modified waybar dot files from another guy, here's his git repo : https://github.com/elifouts/Dotfiles.git
 
