@@ -25,7 +25,7 @@ This is the first rice I ever make so I hope u guys enjoy it , plus I wish for a
 * NeoVim as your text editor , you can use any text editor you want (just don't use emacs).
 * Ranger as a terminal based file manager or you can use dolphin.
 * Hyprpaper for the wallpapers.
-
+* Zathura if you read pdf files.
 
 I stole and modified waybar dot files from another guy, here's his git repo : https://github.com/elifouts/Dotfiles.git
 
