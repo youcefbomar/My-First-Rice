@@ -29,3 +29,4 @@ This is the first rice I ever make so I hope u guys enjoy it , plus I wish for a
 
 I stole and modified waybar dot files from another guy, here's his git repo : https://github.com/elifouts/Dotfiles.git
 
+And I took most of my hyprlock config from here : https://github.com/justinmdickey/publicdots/blob/main/.config/hypr/hyprlock.conf
