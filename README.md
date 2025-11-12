@@ -7,7 +7,6 @@
 
 This is the first rice I ever make so I hope u guys enjoy it , plus I wish for any notes to help me improve on my ricing skills and stuff, u know the drill.
 
-![Alt text](./screenshot1.png)
 
 ## My goals :
 
@@ -15,6 +14,8 @@ This is the first rice I ever make so I hope u guys enjoy it , plus I wish for a
 * Make it run on potatoes and calculators (not literally)
 * Blur
 
+
+![Alt text](./screenshot1.png)
 
 ## Requirements :
 * Wofi as your app launcher.
