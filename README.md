@@ -16,6 +16,8 @@ This is the first rice I ever make so I hope u guys enjoy it , plus I wish for a
 
 
 ![Alt text](./screenshot1.png)
+![Alt text](./screenshot2.png)
+
 
 ## Requirements :
 * Wofi as your app launcher.
