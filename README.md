@@ -7,6 +7,8 @@
 
 This is the first rice I ever make so I hope u guys enjoy it , plus I wish for any notes to help me improve on my ricing skills and stuff, u know the drill.
 
+![Alt text](./screenshot1.png)
+
 ## My goals :
 
 * Make it clean and minimalistic
